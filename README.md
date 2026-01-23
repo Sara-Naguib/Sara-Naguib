@@ -1,26 +1,43 @@
-<h2> Hi, I'm Sara Naguib 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+{
+  "Languages": { "JavaScript", "PHP", "HTML", "CSS", "JSON", "Markdown" },
+  "Frontend": { "React" },
+  "Backend": { "Laravel", "Node.js (Learning)" },
+  "Database": { "MySQL", "PostgreSQL", "Firebase" },
+  "Editors": { "VS Code" },
+  "Platforms": { "Windows", "GNU/Linux" },
+  "OtherTools": { "Git", "GitHub", "Figma", "Postman" }
+};- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning Node.js & Backend Concepts.
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15%" /><br>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy building full-stack web applications. <br>
 
-<p><em>
-Web Developer <br/>
-Frontend: <b>React</b> ⚛️ <br/>
-Backend: <b>Laravel</b> 🧩 <br/>
-Currently learning <b>Node.js</b> 🚀
-</em></p>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about React, Laravel, Git, or Web Development. <br>
 
----
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;
+Fun fact: I love turning ideas into real web projects 🚀<br><div align="center">
+<a href="https://github.com/YOUR_USERNAME">
 
-### 👩‍💻 A little more about me...
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-`js
-const sara = {
-  pronouns: "she / her",
-  role: "Web Developer",
-  frontend: ["HTML", "CSS", "JavaScript", "React"],
-  backend: ["PHP", "Laravel"],
-  currentlyLearning: ["Node.js", "Express"],
-  tools: ["Git", "GitHub", "REST APIs"],
-  interests: ["Web Development", "UI/UX", "Clean Code"],
-  challenge: "Improving my full-stack skills and building real projects"
-};
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+
+</details>
+
+<hr>
+
+<b>Code Cycle</b><br><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" /><br>
+
+</div>
