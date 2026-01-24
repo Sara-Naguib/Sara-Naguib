@@ -2,7 +2,7 @@
 
 I’m **Sara Naguib**  
 Front-End React & Back-End Laravel Developer 🚀  
-Passionate about building modern, scalable, and user-friendly web applications.
+Interested in Web Development, Programming Fundamentals, and Computer Networks.
 
 ---
 
@@ -13,22 +13,23 @@ Passionate about building modern, scalable, and user-friendly web applications.
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
-![Material UI](https://img.shields.io/badge/Material--UI-black?style=flat-square&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
 
 ### Back-End
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-![REST API](https://img.shields.io/badge/REST--API-black?style=flat-square)
 
-### Tools & DevOps
+### Programming & CS
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
+![OOP](https://img.shields.io/badge/OOP-black?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-black?style=flat-square)
+![CCNA](https://img.shields.io/badge/CCNA-black?style=flat-square&logo=cisco)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
+---
 
