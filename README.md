@@ -31,15 +31,4 @@ Passionate about building modern, scalable, and user-friendly web applications.
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
----
 
-## ⚡ GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&count_private=true&theme=gruvbox" />
-
----
-
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
