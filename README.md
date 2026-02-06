@@ -53,9 +53,8 @@ I'm Sara Naguib
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/YourUsername  
-- LinkedIn: https://linkedin.com/in/YourProfile  
-
+- GitHub: https://github.com/Sara-Naguib  
+- LinkedIn: https://www.linkedin.com/in/sara-naguib-92871a389
 ---
 
 ⭐ Feel free to explore my repositories and connect with me!
