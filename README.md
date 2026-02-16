@@ -12,13 +12,16 @@ I'm Sara Naguib
 - HTML5  
 - CSS3  
 - JavaScript  
-- React  
+- React
+- TypeScript 
 - Bootstrap  
 
 ### 🧩 Back-End
 - PHP  
 - Laravel  
-- MySQL  
+- MySQL
+- JavaScript
+- TypeScript
 - Node.js (Learning)  
 
 ### 🧠 Programming & Computer Science
