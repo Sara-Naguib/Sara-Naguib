@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 I'm Sara Naguib  
-💻 Front-End React & Back-End Laravel Developer  
+💻 Front-End React & Back-End Node.js Developer  
 🚀 Interested in Web Development, Programming Fundamentals, and Computer Networks  
 
 ---
